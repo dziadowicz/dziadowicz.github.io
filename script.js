@@ -1,6 +1,6 @@
 $(document).ready(function() {
-   const apiRoot = 'https://peaceful-mountain-15794.herokuapp.com/v1/task/';
-   const trelloApiRoot = 'https://peaceful-mountain-15794.herokuapp.com/v1/trello/';
+   const apiRoot = 'https://salty-meadow-89764.herokuapp.com/v1/task/';
+   const trelloApiRoot = 'https://salty-meadow-89764.herokuapp.com/v1/trello/';
    const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
    const $tasksContainer = $('[data-tasks-container]');
 
